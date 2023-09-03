@@ -1,0 +1,10 @@
+:root {
+    --color-primary: rgba(26, 86, 229, 1);
+    --color-secondary: rgba(229, 169, 26, 1);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}

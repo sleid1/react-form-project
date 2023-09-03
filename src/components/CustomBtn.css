@@ -1,0 +1,20 @@
+.return_home_btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    background-color: #fff;
+    padding: 15px 20px;
+    border-radius: 5px;
+    color: var(--color-primary);
+    font-size: 16px;
+    text-decoration: none;
+}
+
+.house_icon {
+    color: var(--color-primary);
+    font-size: 30px;
+    margin-right: 5px;
+}
